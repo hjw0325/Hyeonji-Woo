@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e27af0,100:98caf0&height=180&text=It's%20Hyeonji's%20page!&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 1️⃣ Introduce Myself </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduce Myself </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 의학 지식과 코딩 지식을 동시에 쌓아 미래에 뛰어난 의공학자가 되기를 희망하는 학생입니다. 지속적인 탐구와 실습을 통해 제 꿈을 이루기 위해 노력하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
